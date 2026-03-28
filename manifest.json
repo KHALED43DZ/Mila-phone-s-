@@ -1,0 +1,36 @@
+{
+  "name": "الحماية المدنية - ولاية ميلة",
+  "short_name": "حماية ميلة",
+  "description": "دليل وحدات الحماية المدنية لولاية ميلة - جميع أرقام الاتصال",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#c0392b",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["utilities", "government"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "طوارئ الحماية المدنية",
+      "short_name": "14",
+      "url": "tel:14",
+      "description": "اتصل بالحماية المدنية"
+    }
+  ]
+}
